@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurakhim</h1>
 <h3 align="center">A junior frontend developer from Uzbekistan</h3>
-<div class="tenor-gif-embed" data-postid="17252607" data-share-method="host" data-aspect-ratio="1.15942" data-width="100%"><a href="https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607">Do Not Touch It Programmer GIF</a>from <a href="https://tenor.com/search/do+not+touch+it-gifs">Do Not Touch It GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bkyl1.gif">
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
