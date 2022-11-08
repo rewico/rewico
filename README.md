@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurakhim</h1>
 <h3 align="center">A junior frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bkyl1.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
