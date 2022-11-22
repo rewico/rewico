@@ -2,7 +2,6 @@
 <h4 align="center">A junior frontend developer from Uzbekistan</h4>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/z4_HKSF6Nx8AAAAM/typing-jim-carrey.gif">
 
-
 - 🌱 I’m currently learning **JavaScript & React JS**
 
 - 📫 How to reach me **codergq@gmail.com**
